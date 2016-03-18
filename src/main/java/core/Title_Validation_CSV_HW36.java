@@ -15,7 +15,7 @@ public class Title_Validation_CSV_HW36 {
 		String csvFile = "./src/main/resources/Test.csv";
 		BufferedReader br = null;
 		String line = null;
-		String cvsSplitBy = ",";
+		String cvsSplitBy = "~";
 		String text_case_id = null;
 		String url = null;
 		String title_expected = null;
